@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "Alex Greb",
     "section": "",
-    "text": "My name is Alex Greb I am a junior data science major at Chaminade University. I also on the baseball team here at Chaminade"
+    "text": "My name is Alex Greb I am a junior data science major at Chaminade University. I also on the baseball team here at Chaminade."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This page will have my about info"
+  },
+  {
+    "objectID": "Baseball.html",
+    "href": "Baseball.html",
+    "title": "Baseball",
+    "section": "",
+    "text": "This page will have my baseball highlights"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page will have my projects that I have worked on."
   }
 ]

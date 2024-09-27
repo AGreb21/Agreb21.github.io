@@ -12,4 +12,4 @@ about:
       href: mailto:alexander.greb@student.chaminade.edu
 ---
 
-My name is Alex Greb I am a junior data science major at Chaminade University. I also on the baseball team here at Chaminade
+My name is Alex Greb I am a junior data science major at Chaminade University. I also on the baseball team here at Chaminade.
