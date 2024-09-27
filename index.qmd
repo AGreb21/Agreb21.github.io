@@ -8,6 +8,7 @@ about:
   links:
     - text: GitHub
       href: https://github.com/AGreb21
+      target: blank
     - text: Email
       href: mailto:alexander.greb@student.chaminade.edu
 ---
