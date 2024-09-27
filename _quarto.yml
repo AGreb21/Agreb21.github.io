@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Agreb21.github.io"
+  title: "Alex Greb"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Baseball.qmd
+      - Projects.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: Superhero
     css: styles.css
     toc: true
 
