@@ -52,3 +52,17 @@ This year I transferred to Chaminade University of Honolulu to continue my athle
 ![](media/Homerun3.mov){fig-align="center"}
 
 ![](media/Homerun4.mov){fig-align="center"}
+
+{{< video media/Walkoff1.mov >}}
+
+{{< video media/Walkoff2.mov >}}
+
+{{< video media/Homerun1.mov >}}
+
+{{< video media/Homerun2.mov >}}
+
+{{< video media/Homerun3.mov >}}
+
+{{< video media/Homerun4.mov >}}
+
+{{< video media/Homerun5.mov >}}
