@@ -6,14 +6,60 @@ about:
   template: trestles
   image-width: 17em
   links:
-    - text: GitHub
+    - icon: linkedin
+      href: www.linkedin.com/in/alex-greb-94438a331
+      target: blank
+    - icon: github
       href: https://github.com/AGreb21
       target: blank
-    - text: Email
+    - icon: twitter
+      href: https://twitter.com/Alex_Greb21
+      target: blank
+    - icon: instagram
+      href: https://www.instagram.com/_alexgreb/
+      target: blank
+    - icon: envelope
       href: mailto:alexander.greb@student.chaminade.edu
+      target: blank
 ---
 
 My name is Alex Greb I am a junior data science major at Chaminade University. I also on the baseball team here at Chaminade.
+
+# Education
+
+### High School
+
+Ballard High School \| Seattle, Washington
+
+-   Received high school diploma, class of 2022
+
+-   Part of the National Honors society
+
+-   Varsity Baseball Captain
+
+### Community College
+
+Wenatchee Valley College \| Wenatchee, Washington
+
+-   Received Associates degree in Arts and Science, class of 2024
+
+-   Member of the Presidents List
+
+-   Member of the deans list 4 times
+
+-   Member of the baseball team
+
+### 4-Year College
+
+Chaminade University \| Honolulu, Hawaii
+
+-   Class of 2026/Currently attending
+
+-   Data Science major
+
+-   Member of the baseball team
+
+# Professional Career
 
 <h3 align="left">
 
