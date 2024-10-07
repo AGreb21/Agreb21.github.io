@@ -7,7 +7,7 @@ about:
   image-width: 17em
   links:
     - icon: linkedin
-      href: www.linkedin.com/in/alex-greb-94438a331
+      href: https://www.linkedin.com/in/alex-greb-94438a331/
       target: blank
     - icon: github
       href: https://github.com/AGreb21
