@@ -1,5 +1,54 @@
 ---
 title: "Baseball"
+image: Media/BaseballHeadshot.JPG
+toc: true
+about: 
+  template: trestles
+  image-width: 17em
+  links:
+    - text: Ballard
+      href: https://www.maxpreps.com/wa/seattle/ballard-beavers/athletes/alex-greb/baseball/stats/?careerid=kr4mgbak81ap9
+      target: blank
+    - text: WVC
+      href: https://nwacsports.com/sports/bsb/2023-24/players/alexgreb07h6?view=profile
+      target: blank
+    - text: Chaminade
+      href: https://goswords.com/sports/baseball/roster/alex-greb/6682
+      target: blank
 ---
 
-This page will have my baseball highlights
+# Stats and Awards
+
+### High School
+
+2 year varsity starter at Ballard High School in Seattle, Washington.
+
+2022 - As a senior received first team all league honors, while batting .340 with 3 home runs.
+
+### Junior College
+
+After High School I attended and played for Wenatchee Valley Community College for 2 years
+
+2023 - Voted team "Hitter of the Year" as a freshman while starting 40 games and hitting 3 home runs including 2 walk-offs
+
+2024 - Received 1st team All-Region honors, batting .278 with 50 hits, including 19 extra base hits and 4 home runs, 36 runs, 36 rbis, and 14 stolen bases, all while starting all 50 games and receiving a "Gold Glove" award
+
+### 4-Year College
+
+This year I transferred to Chaminade University of Honolulu to continue my athletic career
+
+2025 -
+
+# Highlights
+
+![](media/Walkoff1.mov){fig-align="center"}
+
+![](media/Walkoff2.mov){fig-align="center"}
+
+![](media/Homerun1.mov){fig-align="center"}
+
+![](media/Homerun2.mov){fig-align="center"}
+
+![](media/Homerun3.mov){fig-align="center"}
+
+![](media/Homerun4.mov){fig-align="center"}

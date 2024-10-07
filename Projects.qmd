@@ -2,4 +2,4 @@
 title: "Projects"
 ---
 
-This page will have my projects that I have worked on.
+I don't currently have any projects to present but once I do I will be able to import and display them here

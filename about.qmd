@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This page will have my about info
+TMy name is Alex Greb I am a junior data science major at Chaminade University. I also on the baseball team here at Chaminade.
