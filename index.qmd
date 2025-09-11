@@ -1,6 +1,6 @@
 ---
 title: "Alex Greb"
-image: Media/ErinandAlex.JPG
+image: Media/BaseballHeadshot.JPG
 toc: true
 about: 
   template: trestles
