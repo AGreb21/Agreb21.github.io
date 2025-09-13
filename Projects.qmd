@@ -6,6 +6,6 @@ Final Dashboard project CS201
 
 <https://agreb21.github.io/CS201_dashboard/>
 
-Final map project CS421
+Final map project DS421
 
 <https://0198a6a4-dbf4-05f5-0441-4587c6b07f16.share.connect.posit.cloud/>
