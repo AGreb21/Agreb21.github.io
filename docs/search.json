@@ -25,7 +25,11 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
+<<<<<<< HEAD
     "text": "Final Dashboard project CS201\nhttps://agreb21.github.io/CS201_dashboard/\nFinal map project CS421\nhttps://0198a6a4-dbf4-05f5-0441-4587c6b07f16.share.connect.posit.cloud/\nMachine Learning Project\nhttps://docs.google.com/presentation/d/1OQ0DCQ478KTpwU2IiYk9gm_rA3iGyWxh/edit?usp=sharing&ouid=104434145742486379853&rtpof=true&sd=true"
+=======
+    "text": "Final Dashboard project CS201\nhttps://agreb21.github.io/CS201_dashboard/\nFinal map project DS421\nhttps://0198a6a4-dbf4-05f5-0441-4587c6b07f16.share.connect.posit.cloud/"
+>>>>>>> 8ff4fdb8333136a5198b92ddfd3077f24cb068f3
   },
   {
     "objectID": "Baseball.html#baseball",
